@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" role="img" aria-label="Zentora">
+  <defs>
+    <linearGradient id="zentora-favicon-accent" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#ee4a03"/>
+      <stop offset="100%" stop-color="#ff6b2b"/>
+    </linearGradient>
+  </defs>
+  <circle cx="16" cy="16" r="15" fill="url(#zentora-favicon-accent)"/>
+  <path d="M9.5 16 L13.5 20 L22.5 11" fill="none" stroke="#ffffff" stroke-width="2.75" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
